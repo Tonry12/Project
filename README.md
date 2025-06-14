@@ -1,4 +1,4 @@
-# Project: Smart Target - กลยุทธ์การตลาดแบบเจาะจงด้วย Data Science
+# Project: Smart Target - กลยุทธ์การตลาดแบบ Targeted Marketing ที่วิเคราะห์โดยการสร้าง Machine learning
 
 ## Executive Summary
 
