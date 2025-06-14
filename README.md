@@ -81,4 +81,3 @@
 * **Scikit-learn:** สำหรับการสร้างโมเดล Machine Learning (KMeans, RandomForest, Pipeline, etc.)
 * **Matplotlib & Seaborn:** สำหรับการสร้างกราฟและแสดงผลข้อมูล
 * **SHAP:** สำหรับการตีความและอธิบายผลของโมเดล
-"""
